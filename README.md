@@ -1,6 +1,6 @@
 # Kaplan IY469 Git Intro
 
-1. Install git on your machine: [Instructions](https://github.com/git-guides/install-git)
+1. Install git on your machine: [Instructions](https://github.com/git-guides/install-git) (check if already installed with `git --version`)
 2. Create an account on [Github](https://github.com/)
 3. Fork this repository
 4. Clone your forked repository
